@@ -1,0 +1,9 @@
+{
+  "name": "vehicle-proxy-api",
+  "version": "1.0.0",
+  "main": "api/vehicle.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
